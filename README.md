@@ -78,7 +78,7 @@ Python, Google Colab, YouTube Data API v3, pandas, Hugging Face Transformers (XL
 - `khaadi_sentiment_project.ipynb`: full notebook (code and outputs, including all charts)
 - `final_data (1).csv`: cleaned dataset with sentiment labels
 
-## 9. Team
+## 9.
 Arooj Fatima Malik
 f2024376170
 Course: Big Data Analytics
